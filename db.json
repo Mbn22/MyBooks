@@ -1,0 +1,233 @@
+{
+    "Books":[
+        
+    {
+    "id": 1 ,
+    "title": "Que sur toi se lamente le Tigre" ,
+    "price": 13,
+    "stock": 0,
+    "description" : "Dans l Irak rural d aujourd hui, sur les rives du Tigre, une jeune fille franchit l interdit absolu : hors mariage, une relation amoureuse, comme un élan de vie. Le garçon meurt sous les bombes, la jeune fille est enceinte : son destin est scellé. Alors que la mécanique implacable s ébranle, les membres de la famille se déploient en une ronde d ombres muettes sous le regard tutélaire de Gilgamesh, héros mésopotamien porteur de la mémoire du pays et des hommes.Inspirée par les réalités complexes de l Irak qu elle connaît bien, Emilienne Malfatto nous fait pénétrer avec subtilité dans une société fermée, régentée par l autorité masculine et le code de l honneur. Un premier roman fulgurant, à l intensité d une tragédie antique" ,
+    "rating": "⭐⭐⭐⭐⭐",
+    "image": "/images/0001.jpg" ,
+    "type": "Fiction/Littérature"
+    }
+    ,
+    {
+    "id":2 ,
+    "title": "Histoire de la Tunisie- Carthage" ,
+    "price": 10,
+    "stock": 100,
+    "description" : "Cette collection invite le lecteur à un grand voyage dans le temps pour découvrir et suivre l'évolution de l'histoire de la Tunisie." ,
+    "rating": "⭐⭐⭐⭐",
+    "image": "/images/0002.jpg" ,
+    "type": "Livre Tunisien"
+    },
+    
+    
+    {
+    "id":3,
+    "title": "Les Lendemains" ,
+    "price": 31   ,
+    "stock": 77    ,
+    "description" : "Réfugiée dans une maison isolée en Auvergne pour y vivre pleinement son chagrin, Amande ne pensait pas que l'on pouvait avoir si mal. Les jours se suivent et dehors le soleil brille, mais, recluse, elle refuse de le voir. Lorsqu'elle tombe par hasard sur les calendriers horticoles de l'ancienne propriétaire des lieux, elle décide pourtant, guidée par les annotations manuscrites de Madame Hugues, d'essayer de redonner vie au vieux jardin abandonné.Au fil des saisons, elle va puiser dans ce contact avec la terre la force de renaître et de s'ouvrir à des rencontres uniques. Jusqu'à ce que chaque lendemain redevienne, enfin, une promesse d'avenir. Un roman subtil et plein d'émotion qui nous invite à ouvrir grand nos yeux, nos sens et notre coeur, et un formidable hymne à la nature qui nous réconcilie avec la vie."
+    ,"rating": "⭐⭐⭐⭐⭐",
+    "image": "/images/0003.jpg" ,
+    "type": "Fiction/Littérature"
+    },
+    
+    {
+    "id":4,
+    "title": "Sapiens Tome 1 - La naissance de l'humanité (Album)" ,
+    "price": 91 ,
+    "stock": 67    ,
+    "description" : "Animal insignifiant parmi les animaux et humain parmi d'autres humains, Sapiens a acquis il y a 70000 ans des capacités extraordinaires qui l'ont transformé en maitre du monde. Harari, Vandermeulen et Casanave racontent avec humour la naissance de l'humanité de l'apparition de Homo sapiens à la Révolution agricole. Une bande dessinée pour repenser tout ce que nous croyions savoir sur l'histoire de l'humanité." ,
+    "rating": "⭐⭐⭐⭐⭐",
+    "image": "/images/0004.jpg" ,
+    "type": "Fiction/Littérature"
+    },
+    
+    
+    {
+    "id":5,
+    "title": "sang d'encre" ,
+    "price": 18   ,
+    "stock": 76    ,
+    "description" : "Chacune de ces nouvelles, est l'occasion d'une plongée dans les tréfonds de l'âme humaine, sur le versant noir des pulsions mortelles. Un périple mouvementé où la violence côtoie souvent l'absurde et où rien n'est jamais vraiment ce qu'il parait."
+    ,"rating": "⭐⭐⭐⭐⭐",
+    "image": "/images/0005.jpg"  ,
+    "type": "Fiction/Littérature"
+    },
+    
+    {
+    "id": 6,
+    "title": "Mon grand cahier d'écriture ( 2 majuscules)" ,
+    "price": 3   ,
+    "stock": 72    ,
+    "description" : "",
+    "rating": "⭐⭐⭐⭐⭐",
+    "image": "/images/0006.jpg"  ,
+    "type": "Jeunesse"
+    },
+    
+    {
+    "id":7 ,
+    "title": "Le Club des Cinq Tome 21 - Le Club des Cinq en embuscade" ,
+    "price": 24   ,
+    "stock": 7    ,
+    "description" : "Catastrophe ! Une grippe très contagieuse empêche les Cinq de passer les vacances à la Villa des Mouettes ! A la place, ils devront rester chez le Professeur Lagarde, un savant aussi distrait que grincheux. Ca promet... Mais tout bascule quand, en pleine nuit, un voleur réussit à pénétrer dans la tour où le Professeur garde ses plans secrets. Pour démasquer le coupable, Claude décide de tendre une embuscade..."
+    ,"rating": "⭐⭐⭐⭐⭐",
+    "image": "/images/0007.jpg"  ,
+    "type": "Jeunesse"
+    },
+    
+    
+    {
+    "id": 8 ,
+    "title": "A l'école ! Tome 4" ,
+    "price": 22   ,
+    "stock": 25   ,
+    "description" : "C'est le jour de la piscine ! Emile et Clara sont R-A-V-I-S. Mais... malheur : Clara a oublié toutes ses affaires ! Comment va-t-elle faire pour se baigner ? Et qui va bien pouvoir aider Agnès, qui a tellement peur de se jeter à l'eau ?"
+    ,"rating": "⭐⭐⭐⭐⭐",
+    "image": "/images/0008.jpg",
+    "type": "Jeunesse"
+    },
+    
+    {
+    "id":9 ,
+    "title": "Si ça saigne" ,
+    "price": 91  ,
+    "stock": 3    ,
+    "description" : "Les journalistes le savent : si ça saigne, L'info se vend. Et l'explosion d'une bombe au collège Albert Macready est du pain bénit dans le monde des news en continu. Holly Gibney, de l'agence de détectives Finders Keepers, travaille sur sa dernière enquête Lorsqu'elle apprend L'effroyable nouvelle en allumant ta télévision. Elle ne sait pas pourquoi, mais le journaliste qui couvre les événements attire son attention..."
+    ,"rating": "⭐⭐⭐⭐⭐",
+    "image": "/images/0009.jpg"  ,
+    "type": "Fiction/Littérature"
+    },
+    
+    
+    {
+    "id":10 ,
+    "title": "Histoire de la Tunisie" ,
+    "price": 37   ,
+    "stock": 77    ,
+    "description" : ""
+    ,"rating": "⭐⭐⭐⭐",
+   "image": "/images/0010.jpg"  ,
+    "type": "Livre Tunisien"
+    },
+    
+    
+    {
+    "id": 11 ,
+    "title": "Entre deux cimetières" ,
+    "price": 25   ,
+    "stock": 30    ,
+    "description" : "Khalil, avocat comblé par la vie, voit sa quiétude bouleversée le jour où un rêve le pousse à entreprendre un voyage sans aucune raison. Il fait alors la  rencontre  d'un enfant qui lui révélera des secrets. Un pacte lie désormais Khalil à l'enfant. Des souvenirs ressurgissent dans la mémoire de Khalil, auxquels viendront s'entremêler des histoires de remords, de misogynie et de terrorisme."
+    ,"rating": "⭐⭐⭐⭐",
+    "image": "/images/0011.jpg" ,
+     "type": "Fiction/Littérature"
+    },
+    
+    
+    {
+    "id": 12,
+    "title": "Djerba les mosquées ibadites" ,
+    "price": 69   ,
+    "stock": 63    ,
+    "description" : "Ce livre est un objet précieux. Avec passion et rigueur, il associe à la démarche subtile du photographe, l'érudition de l'historienne historienne Virginie Prévost. Les deux nous entraînent à la découverte captivante de l'ibadisme, un rite singulier et des monuments insolites, témoins dune histoire méconnue. De Ben Hammûda à Tâjdît, en passant par Al-Gallâl, Lûta, Abû Miswar, Al-Bâsî, Sîdî Yâtî, Talâkîn, les auteurs nous invitent à partager leur exploration minutieuse des joyaux de l'architecture ibadite : les mosquées de campagne, disséminées sur toute la surface de l'île, les mosquées souterraines, jalouses de leurs secrets, les mosquées madrasas, gardiennes du savoir et de sa transmission, et enfin les mosquées fortifiées et de guet côtières qui assuraient la défense de l'île. Entre originalité des formes, poésie des lieux et bonheurs chromatiques, la forte identité visuelle de l'architecture djerbienne s'impose dès les premiers pas. On assiste alors à la naissance d'une alliance unique de la figure et de la lumière, de l'intelligible et du sensible. Sous nos yeux, se révèle une autre vision de l'art, à la fois puissante et retenue, sans ors, sans apparats, ni arabesques."
+    ,"rating": "⭐⭐⭐⭐",
+    "image": "/images/0012.jpg",
+    "type": "Livre Tunisien"
+    },
+    
+    {
+    "id": 13,
+    "title": "Kais Ier président d'un bateau ivre" ,
+    "price": 20   ,
+    "stock": 37    ,
+    "description" : "L’ouvrage de 221 pages retrace la première année du président de la République Kaïs Saïed au palais de Carthage. Un livre qui met sous la loupe l’activité présidentielle avec un traitement de l’information à charge et à décharge. Sans complaisance et sans crainte de la critique. Un exercice risqué, un an après l’investiture, mais obligatoire si l’on veut vivre pleinement sa démocratie."
+    ,"rating": "⭐⭐⭐⭐⭐",
+    "image": "/images/0013.jpg",
+    "type": "Livre Tunisien"
+    },
+    
+    {
+    "id":14 ,
+    "title": "Parler tunisien Fissaa !" ,
+    "price": 56   ,
+    "stock": 77    ,
+    "description" : "Une méthode complète pour maîtriser l arabe tunisien en 6 mois.Vous êtes curieux, ouvert, exigeant... et très occupé ou pressé! Mais vous attendez plus d'un manuel de langue qu'un simple recueil de vocabulaire et de phrases toutes faites. Alors, cette méthode est pour vous! Une méthode rapide et pragmatique. Avec un entraînement régulier, à raison d'une demi-heure par jour, vous maîtriserez rapidement le vocabulaire et les notions essentielles pour vous débrouiller dans vos échanges professionnels et personnels de tous les jours. Une méthode simple et intelligente. Pour bien apprendre, il faut comprendre ! De courtes explications étayées de nombreux exemples vous permettront de comprendre la logique de la langue à travers sa grammaire et sa conjugaison. Et cerise sur le gâteau, des encadrés culturels vous permettront d’apprécier les subtilités de l’arabe tunisien en même temps que la culture et mœurs du pays."
+    ,"rating": "⭐⭐⭐⭐",
+    "image":"/images/0014.jpg",
+    "type": "Livre Tunisien"
+    },
+    
+    {
+    "id": 15,
+    "title": "C'était un 14 janvier 2011" ,
+    "price": 25   ,
+    "stock": 20    ,
+    "description" : ""
+    ,"rating": "⭐⭐⭐⭐⭐",
+    "image": "/images/0015.jpg",
+    "type": "Livre Tunisien"
+    },
+    
+    {
+    "id": 16 ,
+    "title": "Nabiha Ben Miled et l'union des femme de Tunisie" ,
+    "price": 35   ,
+    "stock": 80    ,
+    "description" : "A la mémoire de la militante Nabiha Ben Miled, sa fille expose l’engagement social et nationaliste de Nabiha et son action comme présidente de L’UNFT de 1955 à 1963."
+    ,"rating": "⭐⭐⭐⭐⭐",
+    "image": "/images/0016.jpg",
+    "type": "Livre Tunisien"
+    },
+    
+    {
+    "id": 17,
+    "title": "Le petit prince" ,
+    "price": 5   ,
+    "stock": 52    ,
+    "description" :"J ai ainsi vécu seul, sans personne avec qui parler véritablement, jusqu à une panne dans le désert du Sahara, il y a six ans. Quelque chose s'était cassé dans mon moteur.Et comme je n'avais avec moi ni mécanicien, ni passagers, je me préparai à essayer de réussir, tout seul, une réparation difficile. C'était pour moi une question de vie ou de mort. J'avais à peine de l'eau à boire pour huit jours. Le premier soir je me suis donc endormi sur le sable à mille milles de toute terre habitée. J'étais bien plus isolé qu'un naufragé sur un radeau au milieu de l'océan. Alors vous imaginez ma surprise, au lever du jour, quand une drôle de petite voix m'a réveillé. Elle disait : ... « S'il vous plaît... dessine-moi un mouton ! - Hein ! - Dessine-moi un mouton... » J'ai sauté sur mes pieds comme si j'avais été frappé par la foudre. J'ai bien frotté mes yeux. J'ai bien regardé. Et j'ai vu un petit bonhomme tout à fait extraordinaire qui me considérait gravement..... Regardez attentivement ce paysage afin d'être sûr de le reconnaître, si vous voyagez un jour en Afrique, dans le désert. Et, s'il vous arrive de passer par là, je vous supplie, ne vous pressez pas, attendez un peu juste sous l'étoile !Si alors un enfant vient à vous, s'il rit, s'il a les cheveux d'or, s'il ne répond pas quand on l'interroge, vous devinerez bien qui il est. Alors soyez gentils ! Ne me laissez pas tellement triste: écrivez-moi vite qu'il est revenu.",
+    "rating": "⭐⭐⭐⭐⭐",
+    "image": "/images/0017.jpg",
+    "type": "Jeunesse"
+    },
+    
+    {
+    "id": 18 ,
+    "title": "Belle et Sébastien Tome 1 - Poche Le mystère des montagnes" ,
+    "price": 22   ,
+    "stock": 62    ,
+    "description" : "Roberte, l'aubergiste du village, adore raconter, à qui veut l'entendre, la légende du dragon blanc, celle d'un monstre terrifiant qui vit caché dans les montagnes. Pour Sébastien, ce ne sont que des histoires ! Et il compte bien le prouver. Accompagné de sa Belle adorée, il part à la recherche de la mystérieuse créature..."
+    ,"rating": "⭐⭐⭐⭐⭐",
+    "image": "/images/0018.jpg",
+    "type": "Jeunesse"
+    },
+    
+    {
+    "id": 19,
+    "title": "Le carlin qui voulait être... Tome 4" ,
+    "price": 22 ,
+    "stock": 80    ,
+    "description" : "Cet été, toute la famille part en vacances au bord de la mer ! Pour Peggy le carlin, c'est l'aventure. Quant à Chloé, elle rêve de rencontrer une sirène ! Mais Peggy a beau chercher, elle n'en voit pas sur la plage... Elle n'a donc plus qu'une solution : se transformer elle-même en sirène !"
+    ,"rating": "⭐⭐⭐⭐⭐",
+    "image": "/images/0019.jpg",
+    "type": "Jeunesse"
+    },
+    
+    {
+    "id": 20,
+    "title": "Je vous écris d'une autre Rive" ,
+    "price": 13 ,
+    "stock": 20    ,
+    "description" : "Vous verrez dans ces pages que j'ai des choses à vous reprocher. Mais ce que j'ai lu de vous sonne en moi comme un appel à fouiller la mémoire, à lire l'Histoire à travers elle aussi pour aller de l'avant. S.B.",
+    "rating": "⭐⭐⭐⭐⭐",
+    "image": "/images/0020.jpg",
+    "type": "Fiction/Littérature"
+    }
+]
+,"Ordereds":[]
+
+}
+  
